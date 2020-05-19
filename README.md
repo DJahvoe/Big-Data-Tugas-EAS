@@ -3,6 +3,13 @@ Nama: Satria Ade Veda Karuniawan<br>
 NRP: 05111740000130<br>
 Kelas: Big Data<br>
 
+# Dataset documentation link:
+
+[Go to Minimum Temperatures in ME](#minimum-temperatures-in-me)<br>
+[Go to Electric Production](#electric-production)<br>
+[Go to Beer Production in Austr](#beer-production-in-austr)<br>
+[Go to Sales of Shampoo](#sales-of-shampoo)<br>
+
 # Minimum Temperatures in ME
 
 ![workflow](https://github.com/DJahvoe/Big-Data-Tugas-EAS/blob/master/screenshot/Temperature/workflow.jpg)<br>
